@@ -13,4 +13,6 @@ $ ./a.out <file.easy>
 ```
 where `<file.easy>` is the name of the .easy file you want to analyze with the lexer.
 
+4. Test all the .easy files until satisfied.
+
 Thank you!
